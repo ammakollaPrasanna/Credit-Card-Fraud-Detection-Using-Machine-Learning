@@ -3,7 +3,7 @@
 
 A complete machine learning pipeline to detect fraudulent credit card transactions using classical ML algorithms. This project demonstrates the full workflow — from Exploratory Data Analysis (EDA) and preprocessing to model training, evaluation, and comparison — all implemented in a single Jupyter Notebook.
 
-🔗 **Live Notebook:** *(Add your Colab / Kaggle / GitHub link here)*
+🔗 **Live Notebook:** *(https://github.com/ammakollaPrasanna/Credit-Card-Fraud-Detection-Using-Machine-Learning/blob/main/Credit%20card%20fraud%20detetion%20mini%20project-1%20(1).ipynb)*
 
 ---
 
